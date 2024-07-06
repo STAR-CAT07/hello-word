@@ -51,7 +51,10 @@ int AddE(int a, int b)
 
 int main()
 {
-    AddA(5, 10);
+    // AddA(5, 10);
+
+    AddB(5, 10);
+    // 修改调用
     return 0;
 }
 
